@@ -1,0 +1,8 @@
+ts,scope,status,canonical,reason_code,reason,owner,evidence
+2026-11-14T08:38:46+00:00,t05,HOLD,HOLD,T05_REVIEW_AND_GT_REQUIRED,Near-duplicate predictions and group split are proposals; review false merges and evaluate on instructor ground truth before release.,Cao Quang Linh-Reviewer,
+2026-11-14T09:02:13+00:00,t05,HOLD,HOLD,T05_REVIEW_AND_GT_REQUIRED,Review candidate pairs and evaluate with instructor ground truth before release.,Cao Quang Linh-Reviewer,
+2026-11-14T09:03:51+00:00,t05,HOLD,HOLD,T05_REVIEW_AND_GT_REQUIRED,Review candidate pairs and evaluate with instructor ground truth before release.,Cao Quang Linh-Reviewer,
+2026-11-14T09:15:27+00:00,t05,HOLD,HOLD,T05_REVIEW_AND_GT_REQUIRED,Review candidate pairs and evaluate with instructor ground truth before release.,Cao Quang Linh-Reviewer,out\poc\suspect_pairs.csv;out\poc\split_manifest.csv;out\poc\review_queue.csv
+2026-11-14T09:30:17+00:00,t05,HOLD,HOLD,T05_REVIEW_AND_GT_REQUIRED,Review candidate pairs and evaluate with instructor ground truth before release.,Cao Quang Linh-Reviewer,out\poc\suspect_pairs.csv;out\poc\split_manifest.csv;out\poc\review_queue.csv
+2026-11-15T02:17:22+00:00,t05,HOLD,HOLD,T05_REVIEW_AND_GT_REQUIRED,Review candidate pairs and evaluate with instructor ground truth before release.,Cao Quang Linh-Reviewer,out\poc\suspect_pairs.csv;out\poc\split_manifest.csv;out\poc\review_queue.csv
+2026-11-15T02:18:05+00:00,t05,HOLD,HOLD,T05_REVIEW_AND_GT_REQUIRED,Review candidate pairs and evaluate with instructor ground truth before release.,Cao Quang Linh-Reviewer,out\poc\suspect_pairs.csv;out\poc\split_manifest.csv;out\poc\review_queue.csv

@@ -6,4 +6,11 @@ pred_file: suspect_pairs.csv
 params:
   test_fraction: 0.3
   budget: 20
+  corr_min: 0.92
+  corr_hash_min: 0.78
+  phash_max: 8
+  dhash_max: 12
+  candidate_corr_min: 0.70
+  candidate_phash_max: 16
+  burst_seconds: 60
 eval_params: {}
